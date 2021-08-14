@@ -5,7 +5,6 @@
 - 🤔 Almejo ajuda em Java
 - 📫 Contate-me em : jvnsouza2003@hotmail.com
 - 😄 Pronomes: Ele/dela
-- ⚡ Fato incomun : gosto de esportes
 
 
  <div>
