@@ -24,4 +24,7 @@
  <a href="https://www.instagram.com/jvnsouza2003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
    <a href="https://www.twitch.tv/ninjacompacto" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "https://api.whatsapp.com/send?phone=5592981441474&text=Ol%C3%A1%20Jo%C3%A3o!%20venho%20pelo%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
+ 
+ ![Snake animation](https://github.com/NinjaCompacto/NinjaCompacto/blob/output/github-contribution-grid-snake.svg)
  </div>
