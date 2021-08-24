@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Java e Phyton
 - 🤔 Almejo ajuda em Java
 - 📫 Contate-me em : jvnsouza2003@hotmail.com
-- 😄 Pronomes: Ele/dela
+- 😄 Pronomes: Ele/dele
 
 
  <div>
