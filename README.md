@@ -12,7 +12,9 @@
   <img align="center" alt="João-Java" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg'>
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="João-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="João-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+  <img align="center" alt="João-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="João-AndoridStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+
 </div>
   
  ##
